@@ -328,12 +328,34 @@ Or you might find a bug I haven't noticed yet. 😄
 
 ---
 
+---
+
+## 📫 LET'S CONNECT
+
 <div align="center">
 
-## 🧩 STILL FIGURING IT OUT.
+### Every good project starts with a conversation. 💬
 
-### And that's okay.
+**Have an opportunity?** 💼
+**Want to collaborate?** 🤝
+**Found something interesting?** 🧠
+**Or just want to say hello?** 👋
 
-**Learn. Build. Break. Understand. Repeat. ⚡**
+<br>
+
+📧 **[Email Me](mailto:jeevay24@gmail.com)**   •  
+💼 **[LinkedIn](https://www.linkedin.com/in/jeeva18/)**   •  
+🧑‍💻 **[GitHub](https://github.com/jeeva-1824)**
+
+<br>
+
+`Let's turn an idea into something worth building. 🚀`
+
+<br>
+
+### 🧩 STILL FIGURING IT OUT.
+
+**But I'm always open to learning something new.**
 
 </div>
+
